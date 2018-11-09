@@ -1,5 +1,3 @@
-# UnityMecanimPlayOnceTest01
-
 ## 概要  
 UnityのMecanim(Animator)を使って再生したアニメーションが終わったらGameObjectごと消す
 <br /> 
